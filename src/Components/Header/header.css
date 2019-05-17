@@ -1,0 +1,24 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.head1 {
+  background-color: #AB2A19;
+  width:100%;
+  height: 100px;
+  color:white;
+  display: flex;
+  align-items: center;
+
+}
+
+.head1 h1 {
+  text-transform: uppercase;
+  font-size: 30px;
+}
+
+.logo1 {
+  width: 7%;
+  height: 80px;
+  margin-left: 65px;
+}
